@@ -22,7 +22,6 @@ body {
 }
 
 .col-div {
-    border: 1px solid black;
     flex: 1;
 }
 
