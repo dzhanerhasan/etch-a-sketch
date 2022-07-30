@@ -1,1 +1,1 @@
-In this project I am creating something like a sketchpad by using every tool I have been studying. Mainly, I wanted to practice my DOM skills. However, perhaps the most important goal of this project was to learn how to tie everything (HTML, CSS, JS) and understand how they worked together. I now have a basic knowledge on how a webpage should work. I intend to add more functionality to this project in the future.
+A mini-project I built when learning JS and DOM manipulation.
